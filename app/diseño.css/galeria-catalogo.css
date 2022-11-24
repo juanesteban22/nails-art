@@ -1,0 +1,27 @@
+BODY{
+    margin: auto;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    margin: 10px;
+     position: relative;
+     border-color: black;
+     border-style: solid;
+     border-radius:20px;
+    
+}
+.n2{
+    background-color: pink;
+margin-top: auto;
+height: 100%;
+width: 100%;
+}
+
+.n2{
+    text-align: center;
+
+
+}
